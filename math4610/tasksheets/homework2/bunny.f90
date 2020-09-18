@@ -1,0 +1,7 @@
+PROGRAM BUNNY
+
+	IMPLICIT NONE
+	
+	WRITE(*,*) "Hello World"
+
+END PROGRAM BUNNY
